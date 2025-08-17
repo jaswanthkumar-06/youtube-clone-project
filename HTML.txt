@@ -1,0 +1,25 @@
+	HTML
+
+
+=> HYPER TEXT MARKUP LANGUAGE 
+=> it is used to build or create web sites structures ,using html we can give instructions to our computer 
+=> html is a tool 
+
+
+<!--we call this button as html element 
+html element has two parts there are 1) opening tag 2) closing tag-->
+<!--comment in html-->
+<p>college coders</p>   paragraph tag 
+<button>subscribe</button>  button element 
+<a>link to you tube</a>    anchor tag : anchor tag helps to redirect to another website 
+=> href= href is an attribute used to redirect to another website /link to another website 
+=> target_blank = is used to redirect to new  website ("own website lo open chayakunda new website lo open chastadi [target _blank ]attribute )
+=> html ignores multiple spaces and concider multiple spaces as single space 
+
+
+Display properties : are classified into three types 
+there are 
+1) block elements (ex: <P> <p/> p tags ) whether we set the width of the paragraph elements there are work as a block elements 
+2) in-line block elements: takes up the space only as much as needed
+3) in-line elements:
+
