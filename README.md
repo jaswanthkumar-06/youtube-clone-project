@@ -1,4 +1,4 @@
 # youtube-clone-project
-a project  on youtube clone using HTML CSS  
-by using the above code we can see the end to end youtube page  
-in this project we use End-End  HTML & CSS properities 
+A project that aims to duplicate YouTube using HTML and CSS.
+The end-to-end YouTube page can be viewed using the code mentioned above.
+End-end HTML and CSS properties are utilized in this project.
